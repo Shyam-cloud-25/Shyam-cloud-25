@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"  />
-</div>
+<img align="right" height="277" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"  />
 
 ###
 
@@ -20,8 +18,10 @@
 
 ###
 
-<p align="left">Hi 👋, I'm Shyam Singh Bhadauria <br><br>I'm a DevOps enthusiast with a strong foundation in AWS, CI/CD, Docker, Kubernetes, Terraform and cloud-native practices.  <br>I enjoy building reliable automation pipelines, containerizing applications, and improving deployment workflows.<br><br>💡 What I focus on:<br>- CI/CD pipelines using Jenkins  <br>- Containerization with Docker & orchestration with Kubernetes  <br>- Infrastructure as Code using Terraform  <br>- Cloud fundamentals (AWS)  <br>- Monitoring and observability basics <br><br>
-### 📂 Hands-on Projects<br>- AWS Cloud Cost Monitor<br>- AWS Customer Enquiry Manager<br>- Static website hosted on S3<br>- Jenkins CI/CD Pipeline (Build, Test, Deploy)  <br>- Dockerized Sample Application  <br>- Terraform AWS Infrastructure (Basic)<br> <br><br>🚀 Currently learning and improving my skills in scalable DevOps architectures and best practices.<br><br>📫 Feel free to explore my repositories and connect with me!</p>
+<p align="left">Hi 👋, I'm Shyam Singh Bhadauria <br><br>I'm a DevOps enthusiast with a strong foundation in AWS, CI/CD, Docker, Kubernetes, Terraform and cloud-native practices.  <br>I enjoy building reliable automation pipelines, containerizing applications, and improving deployment workflows.<br><br>   
+  
+💡 What I focus on:<br>• CI/CD pipelines using Jenkins  <br>• Containerization with Docker & orchestration with Kubernetes  <br>• Infrastructure as Code using Terraform  <br>• Cloud fundamentals (AWS)  <br>• Monitoring and observability basics<br><br><br>
+📂 Hands-on Projects<br>• AWS Cloud Cost Monitor  <br>• AWS Customer Enquiry Manager  <br>• Static website hosted on S3  <br>• Jenkins CI/CD Pipeline (Build, Test, Deploy)  <br>• Dockerized Sample Application  <br>• Terraform AWS Infrastructure (Basic)<br><br>🚀 Currently learning and improving my skills in scalable DevOps architectures and best practices.<br><br>📫 Feel free to explore my repositories and connect with me!</p>
 
 ###
 
@@ -30,21 +30,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
 </div>
 
 ###
