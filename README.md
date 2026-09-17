@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Hi 👋, I'm Shyam Singh Bhadauria <br><br>I'm a DevOps enthusiast with a strong foundation in AWS, CI/CD, Docker, Kubernetes, Terraform and cloud-native practices.  <br>I enjoy building reliable automation pipelines, containerizing applications, and improving deployment workflows.<br><br>   
+<p align="left">Hi 👋, I'm Shyam Singh Bhadauria <br><br>I'm a DevOps enthusiast with a strong foundation in AWS, Azure, CI/CD, Docker, Kubernetes, Terraform and cloud-native practices.  <br>I enjoy building reliable automation pipelines, containerizing applications, and improving deployment workflows.<br><br>   
   
 💡 What I focus on:<br>• CI/CD pipelines using Jenkins  <br>• Containerization with Docker & orchestration with Kubernetes  <br>• Infrastructure as Code using Terraform  <br>• Cloud fundamentals (AWS)  <br>• Monitoring and observability basics<br><br><br>
 📂 Hands-on Projects<br>• AWS Cloud Cost Monitor  <br>• AWS Customer Enquiry Manager  <br>• Static website hosted on S3  <br>• Jenkins CI/CD Pipeline (Build, Test, Deploy)  <br>• Dockerized Sample Application  <br>• Terraform AWS Infrastructure (Basic)<br><br>🚀 Currently learning and improving my skills in scalable DevOps architectures and best practices.<br><br>📫 Feel free to explore my repositories and connect with me!</p>
